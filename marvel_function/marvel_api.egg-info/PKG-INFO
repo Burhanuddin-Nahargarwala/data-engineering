@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: marvel-api
+Version: 0.1
+Summary: Fetch the data from marvel api and helps to convert it into dataframe
+Author: Burhanuddin
+License-File: License.txt

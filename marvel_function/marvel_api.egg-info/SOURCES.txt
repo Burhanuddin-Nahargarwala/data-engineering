@@ -1,0 +1,8 @@
+License.txt
+setup.py
+marvel_api/__init__.py
+marvel_api/fetch_character_df.py
+marvel_api.egg-info/PKG-INFO
+marvel_api.egg-info/SOURCES.txt
+marvel_api.egg-info/dependency_links.txt
+marvel_api.egg-info/top_level.txt
